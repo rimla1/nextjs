@@ -1,5 +1,5 @@
 const About = () => {
-  console.log("Server Component")
+
   return (
     <div>
         <h1>Name</h1>
